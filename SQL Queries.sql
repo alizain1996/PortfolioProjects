@@ -1,3 +1,5 @@
+                                                           SQL Queries for Covid 19 Dataset
+
 SELECT * 
 FROM PortfolioProject..CovidDeaths
 WHERE continent is not null
